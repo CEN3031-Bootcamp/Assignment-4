@@ -97,7 +97,7 @@ Listing.find({}, null, {sort: {code:1}}, function(err, listings){
       console.log(err);
       res.status(400).send(err);
     } else {
-      res.json(listing);
+      res.json(listings);
     }
   });
   

@@ -18,5 +18,3 @@ ngResource - http://jacopretorius.net/2013/04/using-ngresource-with-angularjs.ht
 
 Services vs factories 
 http://tylermcginnis.com/angularjs-factory-vs-service-vs-provider/
-
-test
